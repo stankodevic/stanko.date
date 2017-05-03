@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Stanko - improving dating life</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+	<div id="main-wrapper">
+		<header>
+
+			<div>
+				
+				<img src="images/zozor_logo.png" id="logo">
+				<h1>Zozor</h1>
+				<h2>Travel diaries</h2>
+
+			</div>
+			
+			<nav>
+				<ul>
+					<li><a href="#">Home</a></li>
+					<li><a href="#">Blog</a></li>
+					<li><a href="#">Resume</a></li>
+					<li><a href="#">Contact</a></li>
+				</ul>
+			</nav>
+
+		</header>
+
+		<div id="banner_image">
+			<div id="banner_description">Reflections on my holiday in the United States
+
+				<a href="#" class="red_button">See article</a> <img src="images/small_arrow.png">
+
+			</div>
+		<!-- za sliko -->
+
+		</div>
+
+		<section>
+			
+			<article>
+				
+
+			</article>
+
+			<aside>
+				
+
+			</aside>
+
+		</section> <!-- Konec SECTION -->
+
+		<footer>
+			
+		<div>
+			
+		</div>
+
+
+		<div>
+			
+		</div>
+
+
+		<div>
+			
+		</div>
+
+
+		</footer>
+
+	</div>	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</div>
+</body>
+</html>
