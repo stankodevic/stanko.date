@@ -31,7 +31,7 @@
 		<div id="banner_image">
 			<div id="banner_description">Reflections on my holiday in the United States
 
-				<a href="#" class="red_button">See article</a> <img src="images/small_arrow.png">
+				<a href="#" class="red_button">See article <img src="images/small_arrow.png"></a> <!-- backgroung photo is added in CSS -->
 
 			</div>
 		<!-- za sliko -->
@@ -41,69 +41,62 @@
 		<section>
 			
 			<article>
-				
+				<h1><img src="images/pin.png" class="ico_categorie"/>I'm a great traveller</h1>
+				<p>Blog af iPhone, humblebrag readymade tbh knausgaard migas. Humblebrag health goth pug pabst. Cold-pressed intelligentsia pok pok kinfolk slow-carb wolf. Brunch pug stumptown bespoke, sriracha tumeric celiac mustache pinterest occupy asymmetrical blue bottle narwhal bitters. Pop-up synth activated charcoal bushwick, you probably haven't heard of them direct trade kogi. Selvage locavore knausgaard tumeric, VHS succulents hot chicken chia ennui. Banjo pabst iPhone try-hard, williamsburg coloring book vaporware bitters direct trade flannel post-ironic freegan +1 vegan.</p>
 
+				<p>Blog af iPhone, humblebrag readymade tbh knausgaard migas. Humblebrag health goth pug pabst. Cold-pressed intelligentsia pok pok kinfolk slow-carb wolf. Brunch pug stumptown bespoke, sriracha tumeric celiac mustache pinterest occupy asymmetrical blue bottle narwhal bitters. Pop-up synth activated charcoal bushwick, you probably haven't heard of them direct trade kogi. Selvage locavore knausgaard tumeric, VHS succulents hot chicken chia ennui. Banjo pabst iPhone try-hard, williamsburg coloring book vaporware bitters direct trade flannel post-ironic freegan +1 vegan.</p>
+
+				<p>Blog af iPhone, humblebrag readymade tbh knausgaard migas. Humblebrag health goth pug pabst. Cold-pressed intelligentsia pok pok kinfolk slow-carb wolf. Brunch pug stumptown bespoke, sriracha tumeric celiac mustache pinterest occupy asymmetrical blue bottle narwhal bitters. Pop-up synth activated charcoal bushwick, you probably haven't heard of them direct trade kogi. Selvage locavore knausgaard tumeric, VHS succulents hot chicken chia ennui. Banjo pabst iPhone try-hard, williamsburg coloring book vaporware bitters direct trade flannel post-ironic freegan +1 vegan.</p>
 			</article>
 
 			<aside>
-				
+				<h1>About the author</h1>
 
+				<img src="images/arrow.png" id="arrow">
+
+				<p id="zozor_picture"><img src="images/zozor.png"></p>
+
+				<p>Let me introduce mydelf: My name's Zozor. I was born on 24 Match 1993.</p>
+				<p>A bit meager, is it not? This is why I've now decided to write my biography to let my readers know who I really am.</p>
+
+				<p><img src="images/facebook.png"><img src="images/twitter.png"><img src="images/vimeo.png"><img src="images/flickr.png"><img src="images/rss.png"></p>
 			</aside>
-
 		</section> <!-- Konec SECTION -->
 
 		<footer>
 			
-		<div>
-			
-		</div>
+			<div id="tweet"> 			
+				<h1>My last tweet</h1>
+
+				<p>Hee-haw!</p>
+
+				<p><time>2017-03-05 12:17</time></p>
+			</div>
 
 
-		<div>
-			
-		</div>
+			<div id="my_pictures">		
+				<h1>My pictures</h1>
+
+				<p><img src="images/pic1.jpg"><img src="images/pic2.jpg"><img src="images/pic3.jpg"><img src="images/pic4.jpg"></p>
+			</div>
 
 
-		<div>
-			
-		</div>
-
-
+			<div id="my_friends">
+				<h1>My friends</h1>
+				<ul>
+					<li><a href="#">Pupi the rabbit</a></li>
+					<li><a href="#">Mr Baobab</a></li>
+					<li><a href="#">Kaiwaii</a></li>
+					<li><a href="#">Perceval.eu</a></li>
+				</ul>
+				<ul>
+					<li><a href="#">Ji</a></li>
+					<li><a href="#">Super cucmber</a></li>
+					<li><a href="#">Prince</a></li>
+					<li><a href="#">Mr Fan</a></li>
+				</ul>
+			</div>
 		</footer>
-
-	</div>	
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	</div>
 </body>
 </html>
